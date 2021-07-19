@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Nikam
 - 👀 I’m interested in Website Development, Application Developent and in Software Development.
-- 🌱 I’m currently learning C language and JavaScript.
+- 🌱 Currently learning C and Exploring JavaScript.
 - 📫 How to reach me Instagram - @rahulnikam.uiux or mail me at codewithrahulnikam@gmail.com.
 
 <!---
