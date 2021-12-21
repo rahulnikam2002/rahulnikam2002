@@ -5,4 +5,4 @@ I'm a developer who loves simplifying things, I love breaking down complex probl
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulnikam2002&hide=contribs,prs&theme=radical&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnikam2002)](https://github.com/rahulnikam2002)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnikam2002)](https://github.com/rahulnikam2002)-->
