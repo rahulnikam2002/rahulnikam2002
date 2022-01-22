@@ -7,7 +7,7 @@ I'm a developer who loves simplifying things, I love breaking down complex probl
 [![trophy](https://github-profile-trophy.vercel.app/?username=rahulnikam2002&theme=dracula&title=Commits)](https://github.com/rahulnikam2002)
 
 # 📈 Contribution
-[![Rahul Nikam's github activity graph](https://activity-graph.herokuapp.com/graph?username=rahulnikam2002&theme=react-dark)](https://github.com/rahulnikam2002)
+[![Rahul Nikam's github activity graph](https://activity-graph.herokuapp.com/graph?username=Harish-Choudhary&theme=react-dark)](https://github.com/Harish-Choudhary)
 
 # My GitHub Profile Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulnikam2002&hide=contribs,prs&theme=radical&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
