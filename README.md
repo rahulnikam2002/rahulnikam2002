@@ -29,7 +29,9 @@ I'm a developer who loves simplifying things, I love breaking down complex probl
 # 📈 Contribution
 [![Rahul Nikam's github activity graph](https://activity-graph.herokuapp.com/graph?username=rahulnikam2002&theme=react-dark)](https://github.com/rahulnikam2002)
 
-# My GitHub Profile Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulnikam2002&hide=contribs,prs&theme=radical&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Choudhary)](https://github.com/Harish-Choudhary) -->
+# Find me  on
+<a href="https://merahulnikam.web.app" style="color: white"><h4 align="left"> ❣️ Personal Portfolio </h4></a>
+
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Choudhary)](https://github.com/Harish-Choudhary) --->
+
