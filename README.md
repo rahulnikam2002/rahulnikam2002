@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Rahul Nikam
 
-I'm a developer who loves simplifying things, I love breaking down complex problems into simple, easy to understand solutions. I'm currently pursuing Computer Science Engineering from Gharda Institute of Technology, Exploring myself around ReactJs and Competitive Programmingm, I have good knowledge of HTML, CSS, SCSS, UiUx, JavaScript, NodeJs, Express, MySQL, MongoDB, Wordpress, GIT. 
+I'm a developer who loves simplifying things, I love breaking down complex problems into simple, easy to understand solutions. I'm currently pursuing Computer Science Engineering from Gharda Institute of Technology, Exploring myself around ReactJs and Competitive Programmingm, I have good knowledge of HTML, CSS, SCSS, UiUx, JavaScript, NodeJs, Express, MySQL, MongoDB, Wordpress, GIT.   
 
 # Tech & Tools Preference
 
@@ -32,6 +32,4 @@ I'm a developer who loves simplifying things, I love breaking down complex probl
 
 # Find me  on
 <a href="https://merahulnikam.web.app" style="color: white"><h4 align="left"> ❣️ Personal Portfolio </h4></a>
-
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Choudhary)](https://github.com/Harish-Choudhary) --->
 
