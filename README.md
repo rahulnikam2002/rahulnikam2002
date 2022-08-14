@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Rahul Nikam
 
-I'm a developer who loves simplifying things, I love breaking down complex problems into simple, easy to understand solutions. I'm currently pursuing Computer Science Engineering from Gharda Institute of Technology, Exploring myself around ReactJs and Competitive Programmingm, I have good knowledge of HTML, CSS, SCSS, UiUx, JavaScript, NodeJs, Express, MySQL, MongoDB, Wordpress, GIT.   
+I'm a developer who loves simplifying things, I love breaking down complex problems into simple, easy to understand solutions. I'm currently pursuing Computer Science Engineering from Gharda Institute of Technology, Exploring myself around ReactJs and Competitive Programmingm, I have good knowledge of HTML, CSS, SCSS, UiUx, JavaScript, NodeJs, ReactJs, React Native, Express, MySQL, MongoDB, Wordpress, GIT.   
 
 # Tech & Tools Preference
 
