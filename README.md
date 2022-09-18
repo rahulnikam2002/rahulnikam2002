@@ -1,3 +1,4 @@
+![Wallppr github](https://user-images.githubusercontent.com/79020081/190893548-d35f5e6d-49bb-4a9b-864a-9ac126dd01aa.png)
 
 # 👋 Hi, I’m Rahul Nikam
 
@@ -24,11 +25,16 @@ I'm a developer who loves simplifying things, I love breaking down complex probl
 
 
 # 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=rahulnikam2002&theme=dracula&title=Commits)](https://github.com/rahulnikam2002)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahulnikam2002&theme=dracula&title=Commits&title=Repositories)](https://github.com/rahulnikam2002)
+
 
 # 📈 Contribution
 [![Rahul Nikam's github activity graph](https://activity-graph.herokuapp.com/graph?username=rahulnikam2002&theme=react-dark)](https://github.com/rahulnikam2002)
 
+
+
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulnikam2002)](https://github.com/rahulnikam2002)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnikam2002&layout=compact&height=50)](https://github.com/anuraghazra/github-readme-statsrahulnikam2002)
 
 # Find me  on
 <a href="https://merahulnikam.web.app" style="color: white"><h4 align="left"> ❣️ Personal Portfolio </h4></a>
