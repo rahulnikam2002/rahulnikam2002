@@ -25,7 +25,7 @@ I'm a developer who loves simplifying things, I love breaking down complex probl
 
 
 # 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=rahulnikam2002&theme=dracula&title=Commits&title=Repositories)](https://github.com/rahulnikam2002)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahulnikam2002&theme=dracula&title=Commits&title=Repositories&title=multilanguage)](https://github.com/rahulnikam2002)
 
 
 # 📈 Contribution
