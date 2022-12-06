@@ -37,5 +37,5 @@ I'm a developer who loves simplifying things, I love breaking down complex probl
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnikam2002&layout=compact&height=50)](https://github.com/anuraghazra/github-readme-statsrahulnikam2002)
 
 # Find me  on
-<a href="https://merahulnikam.web.app" style="color: white"><h4 align="left"> ❣️ Personal Portfolio </h4></a>
+<h4 align="left"><a href="https://merahulnikam.web.app" style="color: white"> ❣️ Personal Portfolio </a></h4>
 
