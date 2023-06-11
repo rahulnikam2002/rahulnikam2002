@@ -4,6 +4,10 @@
 
 I'm a developer who loves simplifying things, I love breaking down complex problems into simple, easy to understand solutions. I'm currently pursuing Computer Science Engineering from Gharda Institute of Technology, Exploring myself around ReactJs and Competitive Programmingm, I have good knowledge of HTML, CSS, SCSS, UiUx, JavaScript, NodeJs, ReactJs, React Native, Express, MySQL, MongoDB, Wordpress, GIT.   
 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulnikam2002&label=Profile%20views&color=0e75b6&style=flat" alt="rahulnikam2002" /> </p>
+
 # Tech & Tools Preference
 
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
